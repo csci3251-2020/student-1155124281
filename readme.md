@@ -8,11 +8,11 @@ Languages:
 * Spanish
 
 Interests:
- -[x] Compiter Science
- -[x] Reading
- -[x] Jogging
- -[ ] Dancing
- -[ ] Assignments
+ - [x] Compiter Science
+ - [x] Reading
+ - [x] Jogging
+ - [ ] Dancing
+ - [ ] Assignments
 
 Courses:
 Course Code | Course Title
