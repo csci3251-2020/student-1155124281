@@ -23,7 +23,7 @@ CSCI2720|Building Web Application
 ESTR2102|Data Structures
 ESTR2002|Probability and Statistics for for Engineers
 
-
+![img](https://github.com/csci3251-2020/student-1155124281/blob/master/CSCI3251milestone2.png?raw=true)
 
 
 
